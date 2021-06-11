@@ -1,0 +1,4 @@
+Carlos,Sanchez,19-02-1999,45678.08
+Pepe,Argento,19-03-1969,45588.90
+Juana,Azurduy,12-07-1870,5555.66
+Lucas,Pratto,08-03-1988,600000.60
